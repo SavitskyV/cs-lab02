@@ -1,15 +1,8 @@
-//
-//  main.cpp
-//  project
-//
-//  Created by Valentin Savitsky on 3/19/19.
-//  Copyright © 2019 Valentin Savitsky. All rights reserved.
-//
-
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+int main() {
+    /cout << "Enter A and B: ";
+    int a, b;
+    cin >> a >> b;
 }
